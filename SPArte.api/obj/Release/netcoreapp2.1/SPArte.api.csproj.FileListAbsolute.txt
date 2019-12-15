@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\bin\Release\netcoreapp2.1\SPArte.api.deps.json
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\bin\Release\netcoreapp2.1\SPArte.api.runtimeconfig.json
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\bin\Release\netcoreapp2.1\SPArte.api.runtimeconfig.dev.json
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\bin\Release\netcoreapp2.1\SPArte.api.dll
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\bin\Release\netcoreapp2.1\SPArte.api.pdb
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\obj\Release\netcoreapp2.1\SPArte.api.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\obj\Release\netcoreapp2.1\SPArte.api.RazorAssemblyInfo.cache
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\obj\Release\netcoreapp2.1\SPArte.api.RazorAssemblyInfo.cs
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\obj\Release\netcoreapp2.1\SPArte.api.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\obj\Release\netcoreapp2.1\SPArte.api.AssemblyInfo.cs
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\obj\Release\netcoreapp2.1\SPArte.api.RazorTargetAssemblyInfo.cache
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\obj\Release\netcoreapp2.1\SPArte.api.dll
+C:\Users\diego\source\repos\SPArte.api\SPArte.api\obj\Release\netcoreapp2.1\SPArte.api.pdb
